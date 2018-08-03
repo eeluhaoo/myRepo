@@ -6,3 +6,4 @@ echo '菜鸟教程：www.runoob.com';
 <div id='app-1>
   <p class='class:ok'>hello Vue</p>
 </div>
+#test vue.js
